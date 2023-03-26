@@ -14,7 +14,7 @@ In my free time, I enjoy reading, playing video games, and spending time with my
 
 ## Contact Me
 
-If you'd like to get in touch with me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-udo-walter-b15270244/) or [Twitter](https://twitter.com/thefirst_nuel/). You can also send me an email at nuelwalter02@gmail.com.
+If you'd like to get in touch with me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-udo-walter-b15270244/) or [Twitter](https://twitter.com/thefirst_nuel/). You can also send me an email at walternuel02@gmail.com.
 
 Thanks for stopping by! 👋
 
