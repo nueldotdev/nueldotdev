@@ -1,22 +1,43 @@
-# Hi there, I'm Nuel! 👋
+Django Developer
+----------------
 
-I'm a software developer who is passionate about creating technology that helps people solve problems and makes their lives easier. I specialize in the following technologies:
+A self taught programmer who started 3 years ago working HTML and CSS, then learnt JavaScript and Python and most recently, Django After realizing how much I loved making things work, I decided to pursue a career in Backend development, the search is still on going but I'm learning everyday
 
-- Python 🐍
-- Django 🎸
-- HTML/CSS/JavaScript 🌐
-- React ⚛️
-- MySQL 🗃️
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [walternuel02@gmail.com](mailto:walternuel02@gmail.com)
+* 🧠  I'm learning ReactJS
+* 🤝  I'm open to collaborating on Anything cool
+* ⚡  I'm fun, at least I think so😅
 
-I love learning new things, so I'm always on the lookout for opportunities to improve my skills and tackle exciting new projects.
+<a href="https://www.twitter.com/thefirst_nuel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/thefirst_nuel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-In my free time, I enjoy reading, playing video games, and spending time with my family and friends.
+### Skills
 
-## Contact Me
 
-If you'd like to get in touch with me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-udo-walter-b15270244/) or [Twitter](https://twitter.com/thefirst_nuel/). You can also send me an email at walternuel02@gmail.com.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
-Thanks for stopping by! 👋
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/WalterNuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thefirst_nuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/WalterNuel"><img src="https://github-readme-stats.vercel.app/api?username=WalterNuel&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="WalterNuel's GitHub stats" /></a>
+
+<a href="https://github.com/WalterNuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterNuel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 
 <!---
 WalterNuel/WalterNuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
