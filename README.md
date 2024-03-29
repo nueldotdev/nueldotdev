@@ -9,8 +9,8 @@ A self taught programmer who started 3 years ago working HTML and CSS, then lear
 * 🤝  I'm open to collaborating on Anything cool
 * ⚡  I'm fun, at least I think so😅
 
-<a href="https://www.twitter.com/thefirst_nuel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thefirst_nuel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/nueldotdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/nueldotdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -27,19 +27,19 @@ src="https://img.shields.io/twitter/follow/thefirst_nuel?logo=twitter&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/WalterNuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thefirst_nuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/nueldotdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nueldotdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/WalterNuel"><img src="https://github-readme-stats.vercel.app/api?username=WalterNuel&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="WalterNuel's GitHub stats" /></a>
+<a href="http://www.github.com/nueldotdev"><img src="https://github-readme-stats.vercel.app/api?username=nueldotdev&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nueldotdev's GitHub stats" /></a>
 
-<a href="https://github.com/WalterNuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterNuel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nueldotdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nueldotdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
 <!---
-WalterNuel/WalterNuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nueldotdev/nueldotdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
