@@ -1,45 +1,75 @@
-Django Developer
-----------------
+<h1 align="left">👋 Hello World, I'm Nuel</h1>
 
-A self taught programmer who started 3 years ago working HTML and CSS, then learnt JavaScript and Python and most recently, Django After realizing how much I loved making things work, I decided to pursue a career in Backend development, the search is still on going but I'm learning everyday
+###
 
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [walternuel02@gmail.com](mailto:walternuel02@gmail.com)
-* 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Anything cool
-* ⚡  I'm fun, at least I think so😅
+<p align="left">I build web applications, for fun and for profit, currently working with Javascript libraries and frameworks on top of past experience with Python and some of it's frameworks (FastAPI, Django), played a bit with Rust and Java... <br><br>Oh and of-course, HTML and CSS were starting points.</p>
 
-<a href="https://www.twitter.com/nueldotdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nueldotdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+###
 
-### Skills
+<p align="left">🔭 I’m currently working on NexNote<br><br>🌱 I’m currently learning Next.js, Supabase and some others<br><br>🤝 If you're ever feeling like you'd love to mentor someone well... I'm right here😅<br><br>👯 I’m looking to collaborate on pretty much what ever I can get my hands on<br><br>👨‍💻 My portfolio is over at https://nueldotdev.github.io/<br><br>📝 I sometimes write on https://dev.to/nueldotdev/</p>
 
+###
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+<h1 align="left">🛠 Somethings I work with</h1>
 
+###
 
-### Socials
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+</div>
 
-<p align="left"> <a href="https://www.github.com/nueldotdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nueldotdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+###
 
-### Badges
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nueldotdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nueldotdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nueldotdev&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nueldotdev&theme=monokai&column=2&row=2&margin-w=15&margin-h=10&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nueldotdev&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/nueldotdev"><img src="https://github-readme-stats.vercel.app/api?username=nueldotdev&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nueldotdev's GitHub stats" /></a>
+<div align="center">
+  <a href="https://dev.to/nueldotdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="devto logo"  />
+  </a>
+  <a href="walternuel02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/nueldotdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  </a>
+</div>
 
-<a href="https://github.com/nueldotdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nueldotdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nueldotdev/count.svg?"  />
+</div>
 
-
-<!---
-nueldotdev/nueldotdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
